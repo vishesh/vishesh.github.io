@@ -35,4 +35,4 @@ gem "webrick", "~> 1.7"
 
 gem "puma"
 gem "rake"
-ruby "3.2.0"
+ruby ">=3.1.0"
