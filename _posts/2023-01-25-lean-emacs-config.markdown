@@ -10,6 +10,9 @@ post. Since they are acquired/written over several years, I honestly don't
 remember the history/source of each. If its not me, its probably from EmacsWiki
 or Reddit.*</small>
 
+* TOC
+{:toc}
+
 Emacs is an amazing text editor for almost anything. However, it takes time and
 experimentation to make it feel more productive than traditional options out
 there (Visual Studio Code, Sublime, IntelliJ, Google Docs ...). Often, we end up
