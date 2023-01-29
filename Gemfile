@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 
 # Theme
-gem "minima", :git => 'git@github.com:jekyll/minima.git'
+gem "minima", :git => 'https://github.com/jekyll/minima.git'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
