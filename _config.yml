@@ -17,8 +17,10 @@ github_username:  vishesh
 linkedin_username: visheshyadav
 
 # Build settings
-# theme: jekyll-whiteglass
 theme: minima
+minima:
+  skin: solarized
+
 plugins:
   - jekyll-feed
 
